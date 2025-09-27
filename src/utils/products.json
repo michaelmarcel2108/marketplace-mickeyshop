@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Topi Baseball ",
+    "slug": "wireless-headphones",
+    "price": 450000,
+    "stock": 12,
+    "category": 1,
+    "category_name": "Aksesoris",
+    "rating": 4,
+    "img": "/src/Photo/Hat.png"
+  },
+  {
+    "id": 2,
+    "name": "Celana Cargo",
+    "slug": "smart-watch",
+    "price": 650000,
+    "stock": 8,
+    "category": 1,
+    "category_name": "Celana",
+    "rating": 5,
+    "img": "/src/Photo/Pants.png"
+  },
+  {
+    "id": 3,
+    "name": "Casual Sneakers",
+    "slug": "casual-sneakers",
+    "price": 350000,
+    "stock": 20,
+    "category": 2,
+    "category_name": "Sepatu",
+    "rating": 4,
+    "img": "/src/Photo/Sneakers.png"
+  },
+  {
+    "id": 4,
+    "name": "Kaos",
+    "slug": "moisturizing-cream",
+    "price": 120000,
+    "stock": 35,
+    "category": 3,
+    "category_name": "Baju",
+    "rating": 3,
+    "img": "/src/Photo/T-Shirt.png"
+  }
+]

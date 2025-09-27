@@ -8,7 +8,7 @@
     "category": 1,
     "category_name": "Aksesoris",
     "rating": 4,
-    "img": "/src/Photo/Hat.png"
+    "img": "https://i.pinimg.com/1200x/93/7e/f6/937ef6dd7b3009e6f6c8a0265d5fbd5f.jpg"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "category": 1,
     "category_name": "Celana",
     "rating": 5,
-    "img": "/src/Photo/Pants.png"
+    "img": "https://i.pinimg.com/1200x/f7/84/56/f784563e0f7b9c59a014fac4beee46d4.jpg"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "category": 2,
     "category_name": "Sepatu",
     "rating": 4,
-    "img": "/src/Photo/Sneakers.png"
+    "img": "https://i.pinimg.com/736x/c9/19/b5/c919b5c574149cb1ad6062df0bd350dd.jpg"
   },
   {
     "id": 4,
@@ -41,6 +41,6 @@
     "category": 3,
     "category_name": "Baju",
     "rating": 3,
-    "img": "/src/Photo/T-Shirt.png"
+    "img": "https://i.pinimg.com/736x/19/19/15/191915c8aab1dcf71bb41312c1ba9c53.jpg"
   }
 ]
